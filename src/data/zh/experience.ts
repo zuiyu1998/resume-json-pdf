@@ -52,7 +52,7 @@ const ZH_EXPERIENCE: ExperienceData[] = [
     items: [
       {
         title: '个人和开源贡献',
-        subtitle: 'https://github.com/rustdesk/rustdesk',
+        subtitle: 'https://github.com/rustdesk/rustdesk-开发者',
         timeline: '2022.11 - 至今',
         tech: 'Rust + Tokio + Im + Sqlite3',
         details: [
@@ -63,7 +63,7 @@ const ZH_EXPERIENCE: ExperienceData[] = [
       },
       {
         title: '烟草行业iot系统开发',
-        subtitle: '烟草设备的数据采集、状态显示监控、大模型调度',
+        subtitle: '北京远舢科技有限公司-前端开发',
         timeline: '2022.11 - 至今',
         tech: 'vue + c#',
         details: [
@@ -74,7 +74,7 @@ const ZH_EXPERIENCE: ExperienceData[] = [
       },
       {
         title: '深恋',
-        subtitle: '一个在各大平台上架的音频聊天软件',
+        subtitle: '湖南易正网络科技有限公司-前端开发',
         timeline: '2021.6 - 2021.9',
         tech: 'Rust + Tokio + Im + Sqlite3',
         details: [
